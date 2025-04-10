@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alessandra Eloisa Proeti Lima | Lançamento do Livro</title>
+  <style>
+    body {
+      font-family: "Georgia", serif;
+      background-color: #fefdfb;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #f4e8dc;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #5a3e36;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #7b5e54;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 60px;
+    }
+    h2 {
+      color: #5a3e36;
+      border-bottom: 1px solid #d6ccc2;
+      padding-bottom: 10px;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #7b5e54;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f4e8dc;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Alessandra Eloisa Proeti Lima</h1>
+    <p>Uma história de superação, coragem e Justiça</p>
+  </header>  <div class="container">
+    <section id="sobre-mim">
+      <h2>Sobre mim</h2>
+      <p>
+        Sou ex-bancária, empreendedora, mãe, palestrante e futura jurista. Minha trajetória é marcada por desafios e recomeços. Escolhi transformar a dor em propósito e hoje escrevo para inspirar e acolher outras mulheres que também buscam reconstrução e força. Este livro é um pedaço da minha alma, escrito com coragem e verdade.
+      </p>
+    </section><section id="livro">
+  <h2>Sobre o livro</h2>
+  <p>
+    Uma obra autobiográfica que percorre perdas, luto, maternidade, superações e reconstrução pessoal. Escrito com sensibilidade e coragem, o livro é um convite à reflexão e à empatia — principalmente para mulheres que vivem (ou já viveram) processos de recomeço.
+  </p>
+  <a href="#" class="button">Leia o livro</a>
+</section>
+
+<section id="congresso">
+  <h2>Para você que está no Congresso</h2>
+  <p>
+    Obrigada por estar aqui. Este espaço foi criado com carinho para você conhecer minha história e acessar o conteúdo que preparei com tanto amor. Espero que o livro toque seu coração e fortaleça sua jornada.
+  </p>
+  <a href="#" class="button">Acesse o livro</a>
+</section>
+
+  </div>  <footer>
+    &copy; 2025 Alessandra Eloisa Proeti Lima | Instagram: @seuinsta | Contato: contato@seudominio.com
+  </footer>
+</body>
+</html>
